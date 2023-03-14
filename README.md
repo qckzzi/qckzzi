@@ -30,9 +30,11 @@
 • SQLite.
 
 
-In the plans:
+**In the plans:**
+
 Learn deep learning (machine learning, machine vision, neural networks);
-Basic frontend skills (html, css, js, React.js)
+
+Get basic frontend skills (html, css, js, React.js).
 
 ## Codewars profile:
 [![Profile badge](https://www.codewars.com/users/qckzzi/badges/large)](https://www.codewars.com/users/qckzzi)
