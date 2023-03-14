@@ -22,9 +22,12 @@
 • .NET Framework.
 
 **DBMS (СУБД) in which I worked:**
-MS SQL;
-PostgreSQL;
-SQLite.
+
+• MS SQL;
+
+• PostgreSQL;
+
+• SQLite.
 
 
 In the plans:
