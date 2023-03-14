@@ -2,9 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-**I work as a backend developer.**
+### **I work as a backend developer.**
 
-**My programming languages:**
+### **My programming languages:**
 
 • Python;
 
@@ -13,7 +13,7 @@
 • SQL;
 
 
-**Frameworks:**
+### **Frameworks:**
 
 • Django;
 
@@ -21,7 +21,7 @@
 
 • .NET Framework.
 
-**DBMS (СУБД) in which I worked:**
+### **DBMS (СУБД) in which I worked:**
 
 • MS SQL;
 
@@ -30,7 +30,7 @@
 • SQLite.
 
 
-**In the plans:**
+### **In the plans:**
 
 Learn deep learning (machine learning, machine vision, neural networks);
 
